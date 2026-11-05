@@ -1,0 +1,25 @@
+# CareVista Roadmap & Implementation Status
+
+- [x] Hospital Command Overview (`/`)
+- [x] Doctors Directory with Search, Specialty & City Filters (`/doctors`)
+- [x] Dedicated Doctor Dashboard with Schedule & Workload Charts (`/doctors/$doctorId`)
+- [x] Comprehensive Patient Management Directory (`/patients`)
+- [x] Individual Patient Dashboard with 7 Tabs (`/patients/$patientId`)
+- [x] 5 Interactive Patient Vital Charts (HR, BP, SpO2, Temp, RR) with Historical Ranges
+- [x] ECG Waveform Demonstration with Zoom & Playback Controls
+- [x] Chest X-Ray DICOM/PACS-style Medical Image Viewer with Zoom & Pan
+- [x] Patient Medical History, Journey Timeline, Diagnoses & Medications
+- [x] Clinical Monitoring Command Centre with Acuity Heatmap (`/monitoring`)
+- [x] Hospital Bed Management with Ward Census & Status Controls (`/beds`)
+- [x] Clinical Consultation & Appointment Scheduling with Conflict Validation (`/appointments`)
+- [x] Alerts & Notifications Centre with Acknowledge/Resolve Workflows (`/alerts`)
+- [x] Enterprise Healthcare Analytics with Demographic Trends & CSV Export (`/analytics`)
+- [x] Multi-Patient Vital & Acuity Trajectory Comparison Module (`/compare`)
+- [x] Historical Anomaly Detection with Configurable Thresholds (`/anomalies`)
+- [x] What-If Clinical Simulation with Scenario Presets (`/simulation`)
+- [x] Pan-India Hospital Network Map across 5 Regional Centers (`/locations`)
+- [x] Administrative & Clinical Audit Trail Log (`/activity`)
+- [x] Executive Management Presentation Mode with Slide Carousel (`/present`)
+- [x] Custom Report Builder with Print & CSV Export (`/reports`)
+- [x] System Settings, Appearance Theme, Thresholds & Preferences (`/settings`)
+- [x] Global Search & Command Palette (`Ctrl+K`)
